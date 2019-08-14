@@ -1,4 +1,4 @@
-package com.mkyong.editor;
+package com.shahin.editor;
 
 import javax.faces.bean.ManagedBean;
 
